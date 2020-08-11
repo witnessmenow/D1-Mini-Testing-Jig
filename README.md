@@ -1,9 +1,9 @@
 # D1-Mini-Testing-Jig
 A test jig for ESP8266 D1 mini shields for using with pogo pins.
 
-![img](https://i.imgur.com/SXdKwkn.png)
+![img](https://i.imgur.com/SXdKwkn.png?1)
 
-![img](https://i.imgur.com/pWJQMGF.png)
+![img](https://i.imgur.com/pWJQMGF.png?1)
 
 ## Hardware 
 
