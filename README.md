@@ -24,6 +24,10 @@ This project is licensed under the CERN Open Hardware License V1.2
 
 \* = Affiliate Link
 
+## Assembly
+
+![img](https://i.imgur.com/Evabk9c.png?1)
+
 ## Changelist
 
 #### V1.1:
