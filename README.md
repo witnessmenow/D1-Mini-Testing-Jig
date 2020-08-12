@@ -5,6 +5,11 @@ A test jig for ESP8266 D1 mini shields for using with pogo pins.
 
 ![img](https://i.imgur.com/pWJQMGF.png?1)
 
+
+## Help support what I do!
+
+[If you enjoy my work, please consider becoming a Github sponsor!](https://github.com/sponsors/witnessmenow/)
+
 ## Hardware 
 
 This project was developed using EasyEDA and the [project is available here.](https://easyeda.com/ecenuig/d1-mini-testing-jig)
