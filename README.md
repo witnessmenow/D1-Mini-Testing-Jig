@@ -5,6 +5,11 @@ A test jig for ESP8266 D1 mini shields for using with pogo pins.
 
 ![img](https://i.imgur.com/pWJQMGF.png?1)
 
+
+## Help support what I do!
+
+[If you enjoy my work, please consider becoming a Github sponsor!](https://github.com/sponsors/witnessmenow/)
+
 ## Hardware 
 
 This project was developed using EasyEDA and the [project is available here.](https://easyeda.com/ecenuig/d1-mini-testing-jig)
@@ -23,6 +28,10 @@ This project is licensed under the CERN Open Hardware License V1.2
 - M3 Nut - [LCSC](https://lcsc.com/product-detail/Screw_Made-in-China-Made-in-China-M3Nuts-6Angle-stainless-steel_C24866.html)
 
 \* = Affiliate Link
+
+## Assembly
+
+![img](https://i.imgur.com/Evabk9c.png?1)
 
 ## Changelist
 
